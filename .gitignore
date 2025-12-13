@@ -1,0 +1,11 @@
+# Environment files
+.env
+.env.*.local
+
+# Node modules
+node_modules/
+
+# Optional logs and OS files
+npm-debug.log*
+yarn-error.log*
+.DS_Store
