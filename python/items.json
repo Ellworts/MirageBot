@@ -1,0 +1,73 @@
+[
+        {
+          "id": "rusty_crown_cap",
+          "name": "Ржавая Коронка от Бутылки",
+          "rarity": "common",
+          "stats": { "luck": 1, "cha": -1 },
+          "desc": "Счастье есть, но запах тоже есть."
+        },
+        {
+          "id": "gloves_of_confidence",
+          "name": "Перчатки Ложной Уверенности",
+          "rarity": "common",
+          "stats": { "str": 1 },
+          "desc": "Кулак крепче, мысль слабее."
+        },
+        {
+          "id": "sneaky_socks",
+          "name": "Носки Тихого Шороха",
+          "rarity": "uncommon",
+          "stats": { "dex": 2, "luck": -1 },
+          "desc": "Шаг мягкий, судьба вредная."
+        },
+        {
+          "id": "bottomless_beer_cup",
+          "name": "Бездонная Пивная Кружка",
+          "rarity": "rare",
+          "stats": { "luck": 2, "dex": -1 },
+          "desc": "Тёплая как твои решения."
+        },
+        {
+          "id": "cloak_of_dramatic_exit",
+          "name": "Плащ Эффектного Ухода",
+          "rarity": "uncommon",
+          "stats": { "cha": 2, "str": -1 },
+          "desc": "Красиво ушёл, но донести не смог."
+        },
+        {
+          "id": "coin_of_bad_ideas",
+          "name": "Монетка Плохих Идей",
+          "rarity": "common",
+          "stats": { "luck": 1, "dex": -1 },
+          "desc": "Если подбросить, выпадет не то."
+        },
+        {
+          "id": "helmet_of_overthinking",
+          "name": "Шлем Перемудривания",
+          "rarity": "uncommon",
+          "stats": { "str": 1, "cha": -2 },
+          "desc": "Сильнее держишь удар, хуже держишь разговор."
+        },
+        {
+          "id": "ring_of_misplaced_charm",
+          "name": "Кольцо Неуместного Обаяния",
+          "rarity": "rare",
+          "stats": { "cha": 2, "luck": -1 },
+          "desc": "Обаяние есть, момент не тот."
+        },
+        {
+          "id": "boots_of_brave_slip",
+          "name": "Ботинки Храброго Подскальзывания",
+          "rarity": "uncommon",
+          "stats": { "dex": 1, "str": 1, "luck": -1 },
+          "desc": "Смело идёшь, потом смело летишь."
+        },
+        {
+          "id": "amulet_of_sudden_truth",
+          "name": "Амулет Внезапной Правды",
+          "rarity": "epic",
+          "stats": { "luck": 3, "cha": -2 },
+          "desc": "Иногда лучше молчать. Но уже поздно."
+        }
+      ]
+      
